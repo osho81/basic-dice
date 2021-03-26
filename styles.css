@@ -1,11 +1,12 @@
 .container {
-  width: 50%;
+  width: 70%;
   margin: auto;
   text-align: center;
 }
 
 .dice {
   display: inline-block;
+  width: 35%;
 }
 
 body {
@@ -27,8 +28,7 @@ p {
 }
 
 img {
-  display: inline-block;
-  width: 20%;
+  width: 40%;
 }
 
 footer {
