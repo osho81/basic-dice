@@ -1,12 +1,11 @@
 .container {
   width: 50%;
-  height: 40%;
   margin: auto;
   text-align: center;
 }
 
 .dice {
-  display: inline-block;
+  display: inline;
 }
 
 body {
