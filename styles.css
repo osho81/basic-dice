@@ -27,6 +27,7 @@ p {
 }
 
 img {
+  display: inline-block;
   width: 20%;
 }
 
