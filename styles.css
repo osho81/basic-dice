@@ -5,7 +5,7 @@
 }
 
 .dice {
-  display: inline;
+  display: inline-block;
 }
 
 body {
