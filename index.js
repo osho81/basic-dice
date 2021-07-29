@@ -1,4 +1,4 @@
-
+function refresh() {
   var player1Dice = Math.floor(Math.random() * 6) + 1;
   var player2Dice = Math.floor(Math.random() * 6) + 1;
 
@@ -15,3 +15,4 @@
   } else {
     document.querySelector(".main-title").innerHTML = "Player 2 wins!";
   }
+}
