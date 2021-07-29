@@ -6,7 +6,3 @@ This is based on an assignment in the programme (that I participated in):
 Used technologies: 
 - HTML/CSS
 - JavaScript
-
-To add to the program: 
-- Button for rolling dices.
-- Option to choose number of dices. 
