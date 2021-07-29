@@ -1,4 +1,12 @@
-A simple dice game: just refresh the page and a round of dice turns begins.
+A simple dice game: just refresh the page and a round of dice turns begins. 
 
 This is based on an assignment in the programme (that I participated in): 
 "The Complete 2021 Web Development Bootcamp", given by App Brewery, Angela Yu (via Udemy.com)
+
+Used technologies: 
+- HTML/CSS
+- JavaScript
+
+To add to the program: 
+- Button for rolling dices.
+- Option to choose number of dices. 
